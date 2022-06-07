@@ -157,6 +157,10 @@ section.resume-section {
   max-width: 75rem;
 }
 
+section.resume-content {
+  margin-bottom: 100px;
+}
+
 section.resume-section .resume-item .resume-date {
   min-width: none;
 }

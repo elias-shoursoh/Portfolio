@@ -142,6 +142,16 @@
     }
 }
 
+.line.pytest:after {
+    animation-name: pytest;
+}
+
+@keyframes pytest {
+    to {
+        width: 90%;
+    }
+}
+
 
 
 
